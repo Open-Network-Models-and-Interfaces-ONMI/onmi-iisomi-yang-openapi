@@ -1,0 +1,6 @@
+[submodule "yang2openAPI"]
+	path = yang2openAPI
+	url = git@github.com:bartoszm/yang2swagger.git
+[submodule "y2o-tapi-cli"]
+	path = y2o-tapi-cli
+	url = git@github.com:bartoszm/y2s-tapi-cli.git
